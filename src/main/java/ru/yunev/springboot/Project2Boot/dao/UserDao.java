@@ -1,8 +1,6 @@
 package ru.yunev.springboot.Project2Boot.dao;
 
-
 import ru.yunev.springboot.Project2Boot.model.User;
-
 import java.util.List;
 
 public interface UserDao {

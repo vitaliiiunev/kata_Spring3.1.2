@@ -1,7 +1,6 @@
 package ru.yunev.springboot.Project2Boot.service;
 import org.springframework.stereotype.Component;
 import ru.yunev.springboot.Project2Boot.model.User;
-
 import java.util.List;
 
 @Component
